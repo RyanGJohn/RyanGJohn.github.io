@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I’m Ryan. I recently earned my MBA from NYU Stern with a specialization in real estate.  
+I have a background in construction project management, consulting, and equity research.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This site is a place to share my projects, academic work, and creative interests like photography.
