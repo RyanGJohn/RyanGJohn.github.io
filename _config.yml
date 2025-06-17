@@ -21,10 +21,10 @@ author: Ryan Johnson
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Resume: "resume"
+  Projects: "projects"
+  Photography: "photography"
+
 
 ################
 # --- Logo --- #
@@ -86,8 +86,8 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: "Portfolio website showcasing my experience in Consulting, Finance, Real Estate, and beyond as well as my passion for photography"
+"MBA | Real Estate | Photography Enthusiast"
 ###########################
 # --- General options --- #
 ###########################
