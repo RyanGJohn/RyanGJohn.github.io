@@ -7,8 +7,8 @@ permalink: /resume/
 **Ryan Johnson**  
 MBA, NYU Stern School of Business  
 📍 New York, NY  
-✉️ ryan@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/ryangjohn) | [GitHub](https://github.com/RyanGJohn)
+✉️ ryan.johnson@stern.nyu.edu  
+🔗 [LinkedIn](https://linkedin.com/in/ryan-g-johnson97) | [GitHub](https://github.com/RyanGJohn)
 
 ---
 
