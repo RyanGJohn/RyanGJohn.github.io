@@ -1,10 +1,11 @@
 ---
 layout: home
-title: Ryan Johnson
+title: Ryan G Johnson
 subtitle: MBA | Real Estate | Strategy | Photography
 ---
 
 Welcome to my website!
 
-Check out my [About Me](/aboutme/), [Projects](/projects/), and [Photography](/photography/) pages.
+Recent MBA Graduate with professional experience in Consulting, Construction Project Management, and Engineering.
+Specializations in Real Estate, Finance, & Strategy
 
